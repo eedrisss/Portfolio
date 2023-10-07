@@ -86,3 +86,8 @@ nav a {
   text-decoration: none;
   color: #ffc95e;
 }
+
+.photo {
+  width: 150px;
+  margin-bottom: 30px;
+}
