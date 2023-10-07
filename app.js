@@ -3,6 +3,9 @@ const path = require('path');
 const bodyParser = require('body-parser');
 
 const app = express();
+var port = "1000";
+app.set('port', port);
+module.exports = app;
 
 // Set up EJS templating engine
 app.set('views', path.join(__dirname, 'views'));
