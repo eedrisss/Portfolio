@@ -38,7 +38,7 @@ body, h1, h2, p {
   
   nav a {
     text-decoration: none;
-    color: #fff;
+    color: bisque;
     font-weight: bold;
   }
   
@@ -77,4 +77,45 @@ body, h1, h2, p {
     height: auto; 
   }
 
+  .btn link a {
+    margin-top: 10px;
+    padding-top: 10px;
+  }
   
+  table tr a {
+    color:#ffc95e;
+    padding: 20px;
+    
+  }
+  table tr th{
+    text-align: center;
+    padding: 20px;
+  }
+
+  table {
+    text-align: center;
+  }
+
+  table tr td {
+    color:white;
+    
+  }
+
+  .hero-content li a {
+    color:#ffc95e;
+    margin: 50px;
+    padding: 20px;
+    text-decoration: none;
+  }
+
+
+  li  {
+    text-decoration: none;
+    list-style-type: none;
+  }
+
+  .contact-panel a {
+    text-decoration: none;
+    text-underline-offset: off;
+    list-style-type: none;
+  }

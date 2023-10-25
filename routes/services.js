@@ -1,3 +1,10 @@
+/* 
+services.js
+Course: COMP224
+Name: Idris Mustapha
+Student no: 301207535
+10/25/2023 */
+
 const express = require('express');
 const router = express.Router();
 

@@ -81,7 +81,8 @@ body, h1, h2, p {
   height: auto; 
 }
 
-.project_li li {
+.project_li  {
   margin-bottom: 20px;
   text-decoration: none;
+  list-style-type: none;
 }
